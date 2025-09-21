@@ -16,3 +16,4 @@ I've also included a bash launcher which will:
   3. Launch the python script.
   4. Launch the csv file in Libreoffice. (your command for libreoffice and/or excel will likely differ)
 
+For references on the Sleeper API visit https://docs.sleeper.com/
